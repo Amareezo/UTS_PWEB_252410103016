@@ -2,11 +2,7 @@
 
 **Character Vault** adalah website untuk mengelola dan mengorganisasi karakter fiksi. Website ini dibuat sebagai proyek Ujian Tengah Semester (UTS) Pemrograman Web Genap 2025/2026.
 
-## Tentang Website
-
-Website ini memungkinkan pengguna melihat ringkasan koleksi karakter, mengakses direktori karakter, dan melihat informasi akun.
-
-## Teknologi
+## Teknologi yg dipakai
 
 - **Framework:** Laravel 13
 - **Bahasa Pemrograman:** PHP
@@ -25,42 +21,18 @@ Website ini memungkinkan pengguna melihat ringkasan koleksi karakter, mengakses 
 ## Screenshot Website
 
 ### Login
-![Login Page](screenshots/login.png)
+<img width="1364" height="653" alt="image" src="https://github.com/user-attachments/assets/8ba76f8e-9742-438b-811a-a3c7c8036576" />
+
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/727fe7d6-1c44-4131-a3c8-05049ac5d910" />
+
 
 ### Character Management
-![Character Management](screenshots/management.png)
+<img width="1361" height="598" alt="image" src="https://github.com/user-attachments/assets/d1350ecc-bf38-4765-9d1f-627fd9fbf607" />
+
 
 ### Profile
-![Profile](screenshots/profile.png)
+<img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/9f0532c4-39bf-40f9-af3a-9d3aa4dd134a" />
 
-## Menjalankan Project
 
-1. Clone repository ini.
-2. Masuk ke direktori proyek.
-3. Install dependency:
-
-   ```bash
-   composer install
-   ```
-
-4. Salin `.env.example` menjadi `.env`.
-5. Generate application key:
-
-   ```bash
-   php artisan key:generate
-   ```
-
-6. Jalankan server:
-
-   ```bash
-   php artisan serve
-   ```
-
-7. Buka alamat lokal yang ditampilkan oleh Laravel.
-
----
-
-**UTS Pemrograman Web Genap 2025/2026**
